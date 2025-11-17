@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Dev Workflow Simulator",
+  "description": "A web application that visualizes the journey of a Python code request from the UI to execution via Gemini API and back, simulating a modern development workflow.",
+  "requestFramePermissions": []
+}
